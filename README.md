@@ -3,7 +3,7 @@ REGEX generator Using Open AI API
 
 
 Link of the RegEx generator app below
-https://pixelpioneer.retool.com/apps/cf887c04-d16b-11ed-89cc-53789b8169de/regex-openai
+/n https://pixelpioneer.retool.com/apps/cf887c04-d16b-11ed-89cc-53789b8169de/regex-openai
 
 Some working level screenshots of our generator
 
