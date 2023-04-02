@@ -2,8 +2,8 @@
 REGEX generator Using Open AI API 
 
 
-Link of the RegEx generator app below
-/n https://pixelpioneer.retool.com/apps/cf887c04-d16b-11ed-89cc-53789b8169de/regex-openai
+Link of the RegEx generator app --> 
+https://pixelpioneer.retool.com/apps/cf887c04-d16b-11ed-89cc-53789b8169de/regex-openai
 
 Some working level screenshots of our generator
 
